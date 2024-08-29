@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <rss version="2.0">
+     <channel>
+       <title>Class Action Lawsuit News</title>
+       <link>https://mhc222.github.io/class-action-rss/</link>
+       <description>Curated news on class action lawsuits from high-quality industry and news sources</description>
+       <language>en-us</language>
+       <pubDate>Thu, 29 Aug 2024 12:00:00 GMT</pubDate>
+       <lastBuildDate>Thu, 29 Aug 2024 12:00:00 GMT</lastBuildDate>
+       <item>
+         <title>Recent Class Action Lawsuit News Title</title>
+         <link>https://example.com/news-article-1</link>
+         <description>A brief description of the class action lawsuit news...</description>
+         <pubDate>Wed, 28 Aug 2024 10:00:00 GMT</pubDate>
+         <source url="https://reliable-news-source.com">Reliable News Source</source>
+       </item>
+       <!-- More items will be added here programmatically -->
+     </channel>
+   </rss>
